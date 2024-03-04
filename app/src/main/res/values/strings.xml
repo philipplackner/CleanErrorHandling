@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CleanErrorHandling</string>
+    <string name="the_request_timed_out">The request timed out</string>
+    <string name="youve_hit_your_rate_limit">You\'ve hit your rate limit</string>
+    <string name="no_internet">Couldn\'t reach server. Check your internet connection.</string>
+    <string name="file_too_large">The file you tried to upload was too large.</string>
+    <string name="server_error">Oops, something went wrong. Please try again.</string>
+    <string name="unknown_error">An unknown error occurred</string>
+    <string name="error_disk_full">Failed to save the item because your device\'s disk is full</string>
+    <string name="error_serialization">Oops, couldn\'t parse data.</string>
+    <string name="error_password_too_short">The password is too short</string>
+</resources>
